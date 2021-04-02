@@ -1,0 +1,10 @@
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\bin\Debug\SnappSpamSMS.exe.config
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\bin\Debug\SnappSpamSMS.exe
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\bin\Debug\SnappSpamSMS.pdb
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.csprojAssemblyReference.cache
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.Form1.resources
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.Properties.Resources.resources
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.csproj.GenerateResource.cache
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.csproj.CoreCompileInputs.cache
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.exe
+F:\c#\csharp projects\vs\SnappSpamSMS\SnappSpamSMS\obj\Debug\SnappSpamSMS.pdb
